@@ -1,0 +1,6 @@
+C:\Users\kal\source\repos\assignment DOS\assignment DOS\bin\Debug\assignment DOS.exe.config
+C:\Users\kal\source\repos\assignment DOS\assignment DOS\bin\Debug\assignment DOS.exe
+C:\Users\kal\source\repos\assignment DOS\assignment DOS\bin\Debug\assignment DOS.pdb
+C:\Users\kal\source\repos\assignment DOS\assignment DOS\obj\Debug\assignment DOS.csproj.CoreCompileInputs.cache
+C:\Users\kal\source\repos\assignment DOS\assignment DOS\obj\Debug\assignment DOS.exe
+C:\Users\kal\source\repos\assignment DOS\assignment DOS\obj\Debug\assignment DOS.pdb
